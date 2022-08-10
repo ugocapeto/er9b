@@ -1,0 +1,6 @@
+input_0.png
+input_1.png
+output_0.png
+output_1.png
+10000
+10000.0

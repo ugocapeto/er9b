@@ -1,0 +1,6 @@
+IMG_0222_00.jpg
+IMG_0222_04.jpg
+rect_image0.jpg
+rect_image1.jpg
+10000
+10000.0
